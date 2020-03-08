@@ -1,0 +1,63 @@
+body {
+  background-color: #E5E4CC;
+  color: #698474;
+  font-family: Helvetica; 
+}
+
+h2,h1 {
+  color: #698474;
+ font-family: 'Open Sans Condensed', sans-serif;
+
+
+
+}
+
+h4 {
+  color: #889E81;
+}
+
+p {
+  line-height: 0;
+  color: #889E81;
+  text-justify: center;
+  font-size:16px;
+}
+
+a {
+  color: #889E81;
+  font-size: 20px;
+
+}
+
+ul {
+  color: black
+  
+}
+
+a:hover {
+  color:#0072b1;
+}
+div {
+  border-top: 0.5px solid grey;
+  border-left:.5px solid grey;
+  border-right: 0.5px solid grey;
+  border-bottom:  0.5px solid grey;
+
+
+background: #BAC7A7;
+    padding: 30px;
+    border-radius: 8px;
+    box-shadow: 8px 10px 5px grey;
+    margin: 50px;
+}
+.Sacha {
+  border-radius: 50%;
+  box-shadow: 8px 10px 5px grey;
+  border-top: 2px solid #F3F3F3;
+  border-left:2px solid #F3F3F3;
+  border-right: 2px solid #F3F3F3;
+  border-bottom:  2px solid #F3F3F3;
+  width: 200px;
+ 
+  margin-left: 375px;
+}
